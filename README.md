@@ -5,7 +5,7 @@
 
 ## Bot Info
 
-Vocaboom is inspired by the roblox version 'Word Bomb' 
+Vocaboom is inspired by the roblox version 'Word Bomb' by OMG (which that game is inspired by BombParty on JKLM *Links below*) 
 
 A player initiates the game and up to 4 players can join the game.
 
@@ -28,3 +28,6 @@ There may be bugs but if you just play through the instructionn and follow the s
 If any questions shoot me a message at -> saysokhour@gmail.com
 
 **Enjoy!**
+
+[Word Bomb on Roblox](https://www.roblox.com/games/2653064683/Word-Bomb)
+[BombParty on JKLM](https://jklm.fun)
