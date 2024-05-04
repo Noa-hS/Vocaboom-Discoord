@@ -154,6 +154,6 @@ async def phelp(ctx):
 
 @bot.command()
 async def touch(ctx, member: discord.Member):
-    await ctx.send(f'{ctx.author.name} touched {member.name} inappropriately!')
+    await ctx.send(f'{ctx.author.mention} touched {member.mention} inappropriately!')
 
 bot.run('MTIzNjE5MDc0MjcyNTAwNTQwNA.GnfZ1Z.T2cZMY00yMxpMq7yW9X2zPoQqjiutR9CknB4Qw')
